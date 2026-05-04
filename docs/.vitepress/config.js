@@ -1,5 +1,5 @@
 export default {
-  base: '/FGL-Wiki/',
+  base: "/FGL-Wiki/",
   title: "FGL Wiki",
   description: "项目知识库",
   themeConfig: {
