@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as o,ae as t}from"./chunks/framework.D0ZdyYnl.js";const u=JSON.parse('{"title":"FGL Wiki","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),d={name:"index.md"};function r(n,e,c,l,s,_){return i(),o("div",null,[...e[0]||(e[0]=[t("",5)])])}const m=a(d,[["render",r]]);export{u as __pageData,m as default};
