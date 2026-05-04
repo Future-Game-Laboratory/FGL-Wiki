@@ -17,5 +17,3 @@ npm run docs:build
 # 部署到 GitHub Pages（需先配置 repo）
 npm run deploy
 ```
-
-如需我为你配置 GitHub Pages 的 `base` 或 CI/CD（例如 GitHub Actions / Vercel），告诉我你的部署目标。
